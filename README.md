@@ -27,6 +27,7 @@ See [ticket-register.md](ticket-register.md).
 
 ## Completed Tickets
 - [Ticket 001: Microsoft 365 Login Issue](tickets/ticket-001-microsoft-365-login-issue.md)
+- [Ticket 002: Printer Not Responding](tickets/ticket-002-printer-not-responding.md)
 
 ## Project Scope
 This is a simulated support project created to demonstrate practical Level 1 IT support capability. It is not based on real customer data or real employer systems.
