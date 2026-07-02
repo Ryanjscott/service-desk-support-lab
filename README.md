@@ -1,5 +1,12 @@
 # Service Desk Support Lab
 
+## Project Status
+Complete initial version:
+- 10 simulated Level 1 support tickets
+- 5 knowledge base articles
+- 1 sample asset register
+- Jira screenshots for ticket workflow evidence
+
 ## Overview
 This project is a simulated Level 1 Service Desk / MSP support lab. It demonstrates ticket triage, troubleshooting, customer communication, escalation notes, resolution documentation and knowledge base creation.
 
