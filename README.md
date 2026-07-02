@@ -12,13 +12,23 @@ This project is a simulated Level 1 Service Desk / MSP support lab. It demonstra
 
 The project reflects common entry-level IT support tasks across Windows, Microsoft 365, networking, printers, remote access, security awareness and onboarding.
 
-## Tools Used
+## Project Highlights
+- Created 10 simulated Level 1 support tickets covering Microsoft 365, Windows, networking, printers, VPN, phishing, onboarding and escalation.
+- Documented user updates, internal triage notes, troubleshooting steps, resolution notes and escalation decisions.
+- Built 5 knowledge base articles to demonstrate support documentation and repeatable troubleshooting processes.
+- Created a sample asset register to show basic inventory and device lifecycle awareness.
+- Used Jira Service Management to simulate ticket workflow and GitHub to document the final project.
+
+## Tools and Areas Covered
 - Jira Service Management
-- GitHub
-- Windows 10/11 troubleshooting tools
-- Command Prompt and PowerShell basics
-- Microsoft 365 support documentation
-- Technical documentation and knowledge base writing
+- GitHub documentation
+- Windows 10/11 troubleshooting
+- Microsoft 365 account and application support
+- Basic networking commands: `ipconfig`, `ping`, `nslookup`, `ipconfig /flushdns`
+- Printer and peripheral troubleshooting
+- VPN and remote access support
+- Phishing report handling
+- Asset tracking and onboarding documentation
 
 ## Skills Demonstrated
 - Ticket logging and prioritisation
@@ -46,7 +56,10 @@ See [ticket-register.md](ticket-register.md).
 - [Ticket 009: New Starter Device Setup](tickets/ticket-009-new-starter-device-setup.md)
 - [Ticket 010: Escalated Network Outage](tickets/ticket-010-escalated-network-outage.md)
 
-  ## Knowledge Base Articles
+## Jira Evidence
+Screenshots of the completed Jira tickets are included in the [screenshots](screenshots/) folder to show the ticket workflow, notes and resolved status.
+
+## Knowledge Base Articles
 - [Password Reset and MFA Troubleshooting Guide](knowledge-base/password-reset-and-mfa-guide.md)
 - [Printer Troubleshooting Guide](knowledge-base/printer-troubleshooting-guide.md)
 - [Basic Network Troubleshooting Guide](knowledge-base/basic-network-troubleshooting.md)
@@ -55,6 +68,9 @@ See [ticket-register.md](ticket-register.md).
 
 ## Asset Register
 - [Sample Asset Register](assets/sample-asset-register.md)
+
+## Resume Description
+Built and documented a simulated Level 1 Service Desk support lab using Jira Service Management and GitHub. The project includes 10 support tickets, 5 knowledge base articles and a sample asset register covering Windows troubleshooting, Microsoft 365 account access, printer issues, DNS/connectivity faults, VPN remote access, phishing reports, onboarding, escalation notes and customer updates.
 
 ## Project Scope
 This is a simulated support project created to demonstrate practical Level 1 IT support capability. It is not based on real customer data or real employer systems.
