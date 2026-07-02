@@ -46,5 +46,8 @@ See [ticket-register.md](ticket-register.md).
 - [VPN Remote Access Troubleshooting Guide](knowledge-base/vpn-remote-access-guide.md)
 - [Suspicious Email Handling Guide](knowledge-base/suspicious-email-handling-guide.md)
 
+## Asset Register
+- [Sample Asset Register](assets/sample-asset-register.md)
+
 ## Project Scope
 This is a simulated support project created to demonstrate practical Level 1 IT support capability. It is not based on real customer data or real employer systems.
