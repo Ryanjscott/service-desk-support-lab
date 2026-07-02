@@ -39,5 +39,12 @@ See [ticket-register.md](ticket-register.md).
 - [Ticket 009: New Starter Device Setup](tickets/ticket-009-new-starter-device-setup.md)
 - [Ticket 010: Escalated Network Outage](tickets/ticket-010-escalated-network-outage.md)
 
+  ## Knowledge Base Articles
+- [Password Reset and MFA Troubleshooting Guide](knowledge-base/password-reset-and-mfa-guide.md)
+- [Printer Troubleshooting Guide](knowledge-base/printer-troubleshooting-guide.md)
+- [Basic Network Troubleshooting Guide](knowledge-base/basic-network-troubleshooting.md)
+- [VPN Remote Access Troubleshooting Guide](knowledge-base/vpn-remote-access-guide.md)
+- [Suspicious Email Handling Guide](knowledge-base/suspicious-email-handling-guide.md)
+
 ## Project Scope
 This is a simulated support project created to demonstrate practical Level 1 IT support capability. It is not based on real customer data or real employer systems.
