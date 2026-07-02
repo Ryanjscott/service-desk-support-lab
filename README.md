@@ -20,6 +20,8 @@ The project reflects common entry-level IT support tasks across Windows, Microso
 - Documentation and closure notes
 - Escalation decision-making
 - Basic Windows, Microsoft 365 and networking support
+- Security awareness and phishing triage
+- Onboarding and asset tracking
 - Knowledge base creation
 
 ## Ticket Register
@@ -29,6 +31,13 @@ See [ticket-register.md](ticket-register.md).
 - [Ticket 001: Microsoft 365 Login Issue](tickets/ticket-001-microsoft-365-login-issue.md)
 - [Ticket 002: Printer Not Responding](tickets/ticket-002-printer-not-responding.md)
 - [Ticket 003: DNS Connectivity Issue](tickets/ticket-003-dns-connectivity-issue.md)
+- [Ticket 004: Slow Windows Laptop](tickets/ticket-004-slow-windows-laptop.md)
+- [Ticket 005: Outlook Mailbox Issue](tickets/ticket-005-outlook-mailbox-issue.md)
+- [Ticket 006: VPN Remote Access Issue](tickets/ticket-006-vpn-remote-access-issue.md)
+- [Ticket 007: Shared Drive Access Issue](tickets/ticket-007-shared-drive-access-issue.md)
+- [Ticket 008: Suspicious Email Report](tickets/ticket-008-suspicious-email-report.md)
+- [Ticket 009: New Starter Device Setup](tickets/ticket-009-new-starter-device-setup.md)
+- [Ticket 010: Escalated Network Outage](tickets/ticket-010-escalated-network-outage.md)
 
 ## Project Scope
 This is a simulated support project created to demonstrate practical Level 1 IT support capability. It is not based on real customer data or real employer systems.
